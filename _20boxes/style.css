@@ -1,0 +1,21 @@
+
+div {
+    border: 2px solid blue;
+    display:flex;
+    justify-content: space-around ;
+    padding:20px;
+    margin-bottom: 20px;
+}
+p {
+    width:50px;
+    height:50px;
+    padding:15px;
+    background: rgb(100, 170, 228);
+ }
+
+ div:hover {
+     background: rgb(209, 100, 100);
+  }
+  div:hover p {
+      background: blue;
+  }
