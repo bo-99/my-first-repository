@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+    font-weight: bold;
+    font-family: 'Bungee Outline', cursive;
+    filter:blur(1px);
+    font-size: 40px;
+  }
+  h2 {
+    color: orange;
+    font-family: 'Open Sans', sans-serif;
+    }
+  p, li {
+    font-family: 'Open Sans', sans-serif;
+    width:700px;
+    }
+  .underl {
+    text-decoration: underline;
+  }
+  .red {
+    color: red;
+  }
+  ul {
+    list-style-type: square;
+  }
