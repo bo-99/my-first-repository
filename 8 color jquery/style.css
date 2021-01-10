@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.header {
+  display: flex;
+  height: 50px;
+  background: purple;
+  align-items: center;
+}
+.link {
+  height: 30px;
+  width: 100px;
+  background: cyan;
+  margin-right: 10px;
+  margin-left: 10px;
+ }
+.content {
+  display: flex;
+  height: 500px;
+}
+.main {
+  background: yellow;
+  flex-grow: 4;
+}
+.side {
+  background: lime;
+  flex-grow: 1;
+}
